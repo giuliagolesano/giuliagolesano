@@ -1,9 +1,4 @@
 ### computer science and engineering student 
-<div id="title" align="center">
-<p>:mortar_board: computer science and engineering student 💻</p>
-</div>
-<div id="title" align="left"><p>:hammer_and_wrench: Languages and Tools:</p></div>
-
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="30"/>&nbsp;
