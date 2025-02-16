@@ -16,8 +16,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="html" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="30"/>&nbsp;
 </div>
-<div id="title" align="left"><p>🤓My Stats:</p></div>
+<div id="title" align="left"><p>My Stats:</p></div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliagolesano&layout=donut&theme=dark)
 
